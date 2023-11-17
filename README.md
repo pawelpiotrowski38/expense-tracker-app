@@ -2,8 +2,8 @@
 
 ## Table of contents
 
-- [Features](#the-challenge)
-- [Screenshots](#screenshot)
+- [Features](#features)
+- [Screenshots](#screenshots)
 - [Built with](#built-with)
 
 ## Features
