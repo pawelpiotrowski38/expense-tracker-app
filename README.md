@@ -29,6 +29,33 @@ Users are able to:
 
 ## Screenshots
 
+### Home Page
+![](./screenshots/homePage.png)
+
+### Transactions Page
+![](./screenshots/transactionsPage.png)
+
+### Accounts Page
+![](./screenshots/accountsPage.png)
+
+### Budgets Page
+![](./screenshots/budgetsPage.png)
+
+### Charts Page
+![](./screenshots/chartsPage.png)
+
+### Scheduled Operations Page
+![](./screenshots/scheduledOperationsPage.png)
+
+### Settings
+![](./screenshots/settings.png)
+
+### Register Form
+![](./screenshots/registerForm.png)
+
+### Login Form
+![](./screenshots/loginForm.png)
+
 ## Built with
 
 - [Python](https://www.python.org/)
